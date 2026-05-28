@@ -26,7 +26,7 @@ I build end-to-end data science projects — from statistical analysis to machin
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit` `Power BI`
 
 **Statistics**
-`Hypothesis Testing` `Time Series (SARIMA)` `Panel Data` `A/B Testing`
+`Hypothesis Testing` `Time Series` `Panel Data` `A/B Testing`
 
 ---
 
