@@ -9,7 +9,6 @@ I build end-to-end data science projects — from statistical analysis to machin
 
 - 🎓 4th-year Statistics student, graduating 2026
 - 📊 Focused on **machine learning**, **panel data analysis**, and **statistical inference**
-- 🧠 Currently working on my thesis: *CO₂ Emission Prediction across 16 Asian countries using ML & SHAP*
 - ✍️ I write on [Medium](https://medium.com/@ibrahim.salihreisoglu) about data science
 
 ---
