@@ -37,6 +37,7 @@ I build end-to-end data science projects — from statistical analysis to machin
 | [Microsoft Time Series](https://github.com/ibrahimSalihreisoglu/Microsoft-Time-Series-analysis) | MSFT stock forecasting  | R |
 | [Diabetes EDA & Feature Engineering](https://github.com/ibrahimSalihreisoglu/Diabetes-EDA-Feature-Engineering-BootCamp-) | Feature engineering + Random Forest, 88% accuracy | Python, scikit-learn |
 | [Sales Dashboard](https://github.com/ibrahimSalihreisoglu/Sales-Analysis-Dashboard) | Interactive sales analysis dashboard | Power BI |
+| [CO2 Emission Prediction](https://github.com/ibrahimSalihreisoglu/CO2-Emission-Prediction-Asia-Graduation-Project) | Per capita CO2 prediction across 16 Asian countries — CatBoost (R²=0.93), SHAP analysis, Gemini LLM policy generation | Python, CatBoost, SHAP |
 
 ---
 
