@@ -1,13 +1,11 @@
 # Hi, I'm Ibrahim 👋
 
-**Statistics student @ Dokuz Eylül University**  
 I build end-to-end data science projects — from statistical analysis to machine learning pipelines and interactive dashboards.
 
 ---
 
 ## 🔬 About me
 
-- 🎓 4th-year Statistics student, graduating 2026
 - 📊 Focused on **machine learning**, **panel data analysis**, and **statistical inference**
 - ✍️ I write on [Medium](https://medium.com/@ibrahim.salihreisoglu) about data science
 
