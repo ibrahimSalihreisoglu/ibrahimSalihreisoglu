@@ -11,7 +11,6 @@ Statistics graduate from Dokuz Eylül University (2026), looking for data scienc
 - 📈 My thesis predicts per capita CO2 emissions across 16 Asian countries with CatBoost and SHAP
 - 📊 I build dashboards in Power BI and write about data science on [Medium](https://medium.com/@ibrahim.salihreisoglu)
 - 📍 İzmir, Turkey · open to work · [LinkedIn](https://www.linkedin.com/in/ibrahim-salihreiso%C4%9Flu-ab931a260)
-- ✍️ I write on [Medium](https://medium.com/@ibrahim.salihreisoglu) about data science
 
 ---
 
