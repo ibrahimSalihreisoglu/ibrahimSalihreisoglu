@@ -6,7 +6,7 @@ Statistics graduate from Dokuz Eylül University (2026), looking for data scienc
 
 ## 🔬 About me
 
-- 🎓 Statistics background: hypothesis testing, effect sizes, time series, panel data
+- 🎓 Statistics 
 - 💼 Interned in CRM & Data Science at Digiturk, working with customer data
 - 📈 My thesis predicts per capita CO2 emissions across 16 Asian countries with CatBoost and SHAP
 - 📊 I build dashboards in Power BI and write about data science on [Medium](https://medium.com/@ibrahim.salihreisoglu)
