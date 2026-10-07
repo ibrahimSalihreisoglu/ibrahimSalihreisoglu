@@ -17,7 +17,6 @@ I build end-to-end data science projects — from statistical analysis to machin
 `Python` `R` `SQL`
 
 **Machine Learning**
-`scikit-learn` `XGBoost` `SHAP` `statsmodels`
 
 **Data & Visualization**
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit` `Power BI`
