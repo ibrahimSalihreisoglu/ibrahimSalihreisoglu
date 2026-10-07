@@ -1,12 +1,16 @@
 # Hi, I'm Ibrahim 👋
 
-I build end-to-end data science projects — from statistical analysis to machine learning pipelines and interactive dashboards.
+Statistics graduate from Dokuz Eylül University (2026), looking for data science, analytics and BI roles. I like projects where a statistical test or a model ends up changing a decision.
 
 ---
 
 ## 🔬 About me
 
-- 📊 Focused on **machine learning**, **panel data analysis**, and **statistical inference**
+- 🎓 Statistics background: hypothesis testing, effect sizes, time series, panel data
+- 💼 Interned in CRM & Data Science at Digiturk, working with customer data
+- 📈 My thesis predicts per capita CO2 emissions across 16 Asian countries with CatBoost and SHAP
+- 📊 I build dashboards in Power BI and write about data science on [Medium](https://medium.com/@ibrahim.salihreisoglu)
+- 📍 İzmir, Turkey · open to work · [LinkedIn](https://www.linkedin.com/in/ibrahim-salihreiso%C4%9Flu-ab931a260)
 - ✍️ I write on [Medium](https://medium.com/@ibrahim.salihreisoglu) about data science
 
 ---
